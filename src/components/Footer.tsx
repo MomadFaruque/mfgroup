@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
             <img 
               src="https://i.ibb.co/TxNrdt41/MF-INT3-LIG3-NCIA-WHITE.png"
               alt="MF Intel Logo"
-              className="h-10 w-auto mb-6"
+              className="h-12 w-auto mb-6"
               loading="lazy"
             />
             <p className="text-gray-400 max-w-md">

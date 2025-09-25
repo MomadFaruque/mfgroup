@@ -43,7 +43,7 @@ const CaseStudyDetail: React.FC = () => {
             <img 
               src="https://i.ibb.co/p6RtDyzW/LOGO-MF-BW.png"
               alt="MF Intel Logo"
-              className="h-10 w-auto"
+              className="h-12 w-auto"
             />
             <Link 
               to="/"

@@ -104,7 +104,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, scrollToSection, openBoo
               <img 
                 src={logoSrc}
                 alt="MF Intel Logo"
-                className="h-10 w-auto"
+                className="h-12 w-auto"
                 loading="eager"
               />
             </div>
@@ -170,7 +170,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, scrollToSection, openBoo
               <img 
                 src="https://i.ibb.co/p6RtDyzW/LOGO-MF-BW.png"
                 alt="MF Intel Logo"
-                className="h-10 w-auto"
+                className="h-12 w-auto"
               />
               <button
                 ref={firstFocusableRef}
